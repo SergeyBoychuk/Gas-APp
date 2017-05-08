@@ -1,0 +1,13 @@
+body { background-color: black; }
+
+.content-holder { text-align: center; padding: 100px 0px; background-color: black; color: #0077c1; }
+
+.content-holder h1 { margin-top: 0; font-size: 50px; text-transform: uppercase; margin-bottom: 50px; }
+
+.contentUl { padding: 0 10%; margin: 0 auto; background-color: black; text-align: center; }
+
+.contentUl ul { width: 25%; margin: 0 auto; display: inline-block; padding-left: 0; list-style: none; margin-bottom: 50px; background-color: black; border: 2px solid #0077c1; border-radius: 30px; margin-left: 10px; margin-right: 10px; -webkit-box-shadow: 1px 7px 22px 0px #0077c1; box-shadow: 1px 7px 22px 0px #0077c1; }
+
+.contentUl ul li { text-align: center; margin-bottom: 5px; color: #0077c1; font-size: 20px; font-weight: bold; }
+
+/*# sourceMappingURL=sourcemaps/main.css.map */
